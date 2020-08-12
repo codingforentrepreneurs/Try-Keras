@@ -5,3 +5,10 @@ Learn how to build your first neural network using Keras and Tensorflow to do De
 
 
 > Datasets created by the app [Tight.ai Desktop](https://tight.ai) (coming soon).
+
+
+### Getting Started
+
+Open the [Try Keras Start Here.ipynb](./notebooks/Try_Keras_Start_Here.ipynb) Notebook on [Colab](https://colab.research.google.com/github/codingforentrepreneurs/Try-Keras/blob/master/notebooks/Try_Keras_Start_Here.ipynb) or locally. 
+
+Using colab provides a free and easy way for nearly anyone to get started.
