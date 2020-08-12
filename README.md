@@ -2,3 +2,6 @@
 
 # Try Keras
 Learn how to build your first neural network using Keras and Tensorflow to do Deep Learning!
+
+
+> Datasets created by the app [Tight.ai Desktop](https://tight.ai) (coming soon).
