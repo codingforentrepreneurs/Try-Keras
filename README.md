@@ -12,3 +12,7 @@ Learn how to build your first neural network using Keras and Tensorflow to do De
 Open the [Try Keras Start Here.ipynb](./notebooks/Try_Keras_Start_Here.ipynb) Notebook on [Colab](https://colab.research.google.com/github/codingforentrepreneurs/Try-Keras/blob/master/notebooks/Try_Keras_Start_Here.ipynb) or locally. 
 
 Using colab provides a free and easy way for nearly anyone to get started.
+
+
+### Demo
+- [Google Drive Link](https://drive.google.com/drive/folders/1-4_a546Oix6cI345RzbH03mcRJV4bc5i?usp=sharing)
